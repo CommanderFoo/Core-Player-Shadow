@@ -21,7 +21,7 @@ the shadow.
 How to use
 ==========
 
-Add the Player Shadow template to the Hiearchy. The template has a few custom properties on the root.
+Add the Player Shadow template to the Hierarchy. The template has a few custom properties on the root.
 
 - ShowPlayerShadow
 
@@ -37,6 +37,6 @@ The max distance a shadow can be displayed on the ground.
 
 - ShadowColor
 
-The color of the shadoww.
+The color of the shadow.
 
 --]]
